@@ -1,0 +1,16 @@
+@relation dataset-weka.filters.unsupervised.instance.RemovePercentage-P80.0-V
+
+@attribute Age numeric
+@attribute Height numeric
+@attribute Weight numeric
+@attribute Income numeric
+
+@data
+30,160,60,50000
+25,165,55,60000
+35,155,70,45000
+40,170,75,70000
+28,175,65,55000
+35,167,54,52000
+44,145,56,35000
+33,167,45,57000
